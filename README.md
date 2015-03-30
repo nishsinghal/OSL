@@ -8,6 +8,7 @@ On a live version, the information would completely change for each room type. I
 
 I used the command line to automatically watch and compile the css needed from the .scss files upon save. I have also split up the css over multiple files to help keep things modular.
 I have tried to avoid using floats where possible except where they make sense (for example to enable text-wrapping around an image) so that it is not necessary to clear them using a clearfix hack, involving extra markup.
+I have also tried to use only properties that are compatible back to IE7 to avoid extra markup for fallbacks.
 
 ## Data
 
