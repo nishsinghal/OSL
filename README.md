@@ -2,6 +2,8 @@
 
 To run the exercise, simply download the files, then open the index.html file in a browser.
 
+On a live version, the information would completely change for each room type. I have only changed the heading, icon and friend story for now to help keep the code concise. With the full data, I would probably store this in a json file and then use a function to populate the correct areas of the page.
+
 ## SCSS
 
 I used the command line to automatically watch and compile the css needed from the .scss files upon save. I have also split up the css over multiple files to help keep things modular.
