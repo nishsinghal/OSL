@@ -16,6 +16,8 @@ var animal = [];
 var another = [];
 var other = [];
 
+const testChanges = "nish";
+
 //Function to check css for media query
 function checkSize(){
   if ($(".right").css("float") == "none" ){
