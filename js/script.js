@@ -17,6 +17,7 @@ var another = [];
 var other = [];
 
 const testChanges = "nish";
+const someMoreChanges = "hello hello";
 
 //Function to check css for media query
 function checkSize(){
